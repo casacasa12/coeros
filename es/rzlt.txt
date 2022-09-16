@@ -1,0 +1,237 @@
+[]-----------------[ CVV ES ]-----------------[]
+full name : san lonenzo
+card number : 4547571170373304
+Exp month : 05
+Exp year : 23
+Cvv : 415
+<>-------------------< IP Infos >-----------------<>
+IP       : 213.94.13.19
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 OPR/86.0.4363.59
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------[ CVV ES ]-----------------[]
+full name : 121212
+card number : 1111111111111111
+Exp month : 12
+Exp year : 22
+Cvv : 121
+<>-------------------< IP Infos >-----------------<>
+IP       : 79.116.111.207
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 221212
+<>-------------------< IP Infos >-----------------<>
+IP       : 79.116.111.207
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 2121
+<>-------------------< IP Infos >-----------------<>
+IP       : 79.116.111.207
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 212121
+<>-------------------< IP Infos >-----------------<>
+IP       : 79.116.111.207
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 2323
+<>-------------------< IP Infos >-----------------<>
+IP       : 79.116.111.207
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 232323
+<>-------------------< IP Infos >-----------------<>
+IP       : 79.116.111.207
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------[ CVV ES ]-----------------[]
+full name : test test 
+phone : 0000
+card number : 0000000000000000
+Exp month : 11
+Exp year : 24
+Cvv : 123
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 000000
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 0000
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------[ CVV ES ]-----------------[]
+full name : test test 
+phone : 0000
+card number : 0000000000000000
+Exp month : 11
+Exp year : 24
+Cvv : 123
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 123444
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 123444
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 123444
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 123456
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 123455
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 123444
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 123123
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 123123
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 123444
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 000000
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------[ CVV ES ]-----------------[]
+full name : test test 
+phone : 0000
+card number : 0000000000000000
+Exp month : 11
+Exp year : 24
+Cvv : 123
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 000000
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 000000
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------[ CVV ES ]-----------------[]
+full name : sf  wprjw
+phone : 7492
+card number : 2454252525252452
+Exp month : 12
+Exp year : 25
+Cvv : 000
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------[ CVV ES ]-----------------[]
+full name : sf  wprjw
+phone : 3474
+card number : 2454252525252452
+Exp month : 12
+Exp year : 25
+Cvv : 000
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------[ CVV ES ]-----------------[]
+full name : sf  wprjw
+phone : 1231
+card number : 2454252525252452
+Exp month : 12
+Exp year : 25
+Cvv : 000
+pin : 
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------[ CVV ES ]-----------------[]
+full name : sf  wprjw
+phone : +34564564645646464
+card number : 2454252525252452
+Exp month : 12
+Exp year : 25
+Cvv : 000
+pin : 7777
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------[ CVV ES ]-----------------[]
+full name : sf  wprjw
+phone : +34564564645646464
+card number : 2454252525252452
+Exp month : 12
+Exp year : 25
+Cvv : 000
+pin : 7777
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 123456
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
+[]-----------------<[ CVV ES ]>-----------------[]
+Cvv : 222222
+<>-------------------< IP Infos >-----------------<>
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36
+[]-----------------< PAYL01D IS BACK >-----------------[]
